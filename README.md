@@ -60,8 +60,6 @@ Click Save and Deploy
 
 ### 以上几个配置都可以在worker -> 设置 -> 环境变量中配置，key均为对应大写，
 
-![img](readme/cfWorderEnvironment.png)
-
 
 ## 感谢
 项目基于[xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker)，并在[AoEiuV020/Url-Shorten-Worker](https://github.com/AoEiuV020/Url-Shorten-Worker)上修改
