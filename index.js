@@ -31,7 +31,8 @@ const demo_notice = (typeof(DEMO_NOTICE)!="undefined"&&DEMO_NOTICE)
 const html404 = `<!DOCTYPE html>
 <body>
   <h1>404 Not Found.</h1>
-  <p>The url you visit is not found.</p>
+  <p>失效的短链</p>
+  <a href="/">回到主页</a>
 </body>`
 
 
